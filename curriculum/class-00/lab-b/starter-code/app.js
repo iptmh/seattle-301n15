@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 'use strict';
 
 // STEP 1
