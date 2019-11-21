@@ -38,7 +38,7 @@ function displayPics() {
     newFunction(rando);
   }
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the letiable declaration from `let to `let`.
-  // PUT YOUR RESPONSE IN THIS COMMENT
+  // var is function scoped and let is block scoped.
   console.log(viewed);
 
   for (let i = 0; i < 3; i++) {
